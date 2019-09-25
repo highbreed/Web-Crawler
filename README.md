@@ -35,4 +35,3 @@ python spider.py --url http://10.0.2.6/mutillidae
 python spider.py -u http://10.0.2.6/mutillidae
 ```
 
-![spider](https://user-images.githubusercontent.com/25087769/58699291-cf2a2900-83a5-11e9-8a8e-6cd237c5ffac.PNG)
